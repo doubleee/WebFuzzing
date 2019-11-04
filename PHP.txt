@@ -1,4 +1,5 @@
- /site
+/test
+/site
 /ui/#/login.php
 /administrator/components/com_contenthistory/models/history.php
 /index.php?m=search&c=index&a=public_get_suggest_keyword&url=asdf&q=../../
