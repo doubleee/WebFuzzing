@@ -1,3 +1,4 @@
+adm1n.php
 /site
 /ui/#/login.php
 /administrator/components/com_contenthistory/models/history.php
