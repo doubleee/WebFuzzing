@@ -1,4 +1,6 @@
 /adm1n.php
+/spy.php
+/moli.php
 /site
 /ui/#/login.php
 /administrator/components/com_contenthistory/models/history.php
