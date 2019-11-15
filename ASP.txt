@@ -1,3 +1,4 @@
+/adm1n.asp
 /upfile.asp
 /reg_upload.asp
 /bbs/upfile.asp
