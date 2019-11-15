@@ -1,3 +1,5 @@
+/robots.txt
+/admin
 /s8servu.aspx
 /bbs/s8servu.aspx
 /admin/s8servu.aspx
@@ -131,7 +133,7 @@
 /oa/admin_login.aspx
 /coon.aspx
 /ma.aspx
-/aspxľ��.aspx
+/aspxÄ¾Âí.aspx
 /pandan.aspx
 /aspx.aspx
 /ll.aspx
@@ -1663,6 +1665,6 @@
 /zxly.aspx
 /zz.aspx
 /zzz.aspx
-/��½.aspx
-/����Ա.aspx
-/�ٵ�ַ.aspx
+/µÇÂ½.aspx
+/¹ÜÀíÔ±.aspx
+/¼ÙµØÖ·.aspx
