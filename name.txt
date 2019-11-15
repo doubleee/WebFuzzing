@@ -1,8 +1,8 @@
 admin
+system
+test
 admin1
 root
-test
-system
 administrator
 ceshi
 zhangsan
