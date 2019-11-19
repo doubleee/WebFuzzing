@@ -1,3 +1,5 @@
+/web.config
+../web.config
 /robots.txt
 /Admin_login.asp
 /adm1n.asp
