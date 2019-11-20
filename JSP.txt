@@ -1,3 +1,4 @@
+/cxb.jsp
 /000.jsp
 /02nfdiy.jsp
 /0x5emyup.jsp
