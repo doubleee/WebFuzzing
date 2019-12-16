@@ -220,6 +220,7 @@
 /admin-authz.xml
 /admin.conf
 /admin.passwd
+/adminadmin
 /admin/*
 /admin/logon.jsp
 /admin/secure/logon.jsp
