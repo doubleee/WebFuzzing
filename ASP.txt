@@ -1,3 +1,4 @@
+/adminadmin
 /web.config
 ../web.config
 /robots.txt
