@@ -1,3 +1,5 @@
+/gtadmin/login.asp
+/admin/admins.asp
 /adminadmin
 /web.config
 ../web.config
