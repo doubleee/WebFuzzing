@@ -1,3 +1,4 @@
+/i.php
 /server-status
 /adm1n.php
 /spy.php
