@@ -1,3 +1,9 @@
+/login_old.jsp
+/login_old.action
+/login_old.do
+/old_login.jsp
+/old_login.action
+/old_login.do
 /enter.jsp
 /system/adminlogin.action
 /000.jsp
