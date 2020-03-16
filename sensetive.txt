@@ -8,6 +8,8 @@
 /WEB-INF/web.xml
 /CVS/Root
 /CVS/Entries
+/.index.php.swp
+/.index.swp
 /.bzr
 /.Bzr
 /web.tar
