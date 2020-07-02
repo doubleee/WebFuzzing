@@ -1,3 +1,4 @@
+/package.json
 /dis
 /test123456.jsp
 /ss123.jsp
