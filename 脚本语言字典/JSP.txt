@@ -1,3 +1,5 @@
+/swagger-ui.html
+/v2/api-docs
 /package.json
 /dis
 /test123456.jsp
