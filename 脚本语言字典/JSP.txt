@@ -1,4 +1,14 @@
-/swagger-ui.html
+/swagger/
+/api/swagger/
+/swagger/ui/
+/api/swagger/ui/
+/swagger-ui.html/
+/api/swagger-ui.html/
+/user/swagger-ui.html/
+/libs/swaggerui/
+/api/swaggerui/
+/swagger-resources/configuration/ui//swagger-resources/configuration/security/
+/swagger-ui.html#/app-user-controller
 /v2/api-docs
 /package.json
 /dis
