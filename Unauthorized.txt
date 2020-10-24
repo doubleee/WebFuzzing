@@ -1,3 +1,0 @@
-/Purview/GroupPurviewIndex
-/Home/main
-/system/
