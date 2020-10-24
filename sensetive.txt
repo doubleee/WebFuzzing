@@ -1,3 +1,6 @@
+/Purview/GroupPurviewIndex
+/Home/main
+/system/
 /.ssh/authorized_keys
 /back.sql
 /backup.sql
