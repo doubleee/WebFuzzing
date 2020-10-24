@@ -1,3 +1,4 @@
+/.ssh/authorized_keys
 /back.sql
 /backup.sql
 /accounts.sql
