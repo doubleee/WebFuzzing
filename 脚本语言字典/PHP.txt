@@ -1,3 +1,4 @@
+/u.php
 /i.php
 /server-status
 /adm1n.php
