@@ -1,3 +1,4 @@
+/wp/login.asp
 /Admin/login/
 /Help
 /gtadmin/login.asp
