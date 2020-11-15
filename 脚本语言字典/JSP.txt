@@ -1,3 +1,4 @@
+/druid/index.html
 /swagger/
 /api/swagger/
 /swagger/ui/
