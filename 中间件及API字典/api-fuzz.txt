@@ -1,3 +1,13 @@
+/v1
+/v1/doc
+/v1/docs
+/v1/api-doc
+/v1/api-docs
+/v2
+/v2/doc
+/v2/docs
+/v2/api-doc
+/v2/api-docs
 /api/v1/
 /api/v1/scan
 /api
